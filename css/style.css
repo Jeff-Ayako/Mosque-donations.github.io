@@ -779,6 +779,7 @@
 		background-attachment: fixed;
 		background-size: cover;
 		text-align: center;
+		/* position: fixed; */
 	}
 	
 		#header:before
